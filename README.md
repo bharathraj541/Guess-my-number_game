@@ -6,7 +6,13 @@ Feedback: Gives feedback to the user after each guess, indicating if the guess i
 
 Restart Option: Allows the user to restart the game after completing or wanting to start over.
 
-Technologies Used:HTML for structureCSS for stylingJavaScript for functionalitySkills Practiced:DOM manipulation in JavaScriptEvent handlingConditional statementsRandom number generation
+Technologies Used:
+HTML for structure
+CSS for styling
+JavaScript for functionalitySkills
+
+Practiced:DOM manipulation in JavaScriptEvent 
+handlingConditional statementsRandom number generation
 
 ![IMG_20240426_115434](https://github.com/bharathraj541/Guess-my-number_game/assets/137181351/18c71d59-aac6-4fc0-936d-c759003c0ed5)
 ![IMG_20240426_115421](https://github.com/bharathraj541/Guess-my-number_game/assets/137181351/792b8ee4-edbc-4f79-8c75-f2372d7739dd)
