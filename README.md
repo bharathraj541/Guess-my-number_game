@@ -7,9 +7,9 @@ Feedback: Gives feedback to the user after each guess, indicating if the guess i
 Restart Option: Allows the user to restart the game after completing or wanting to start over.
 
 Technologies Used:
-HTML for structure
-CSS for styling
-JavaScript for functionalitySkills
+.HTML for structure
+.CSS for styling
+.JavaScript for functionalitySkills
 
 Practiced:DOM manipulation in JavaScriptEvent 
 handlingConditional statementsRandom number generation
