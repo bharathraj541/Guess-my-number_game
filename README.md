@@ -15,4 +15,5 @@ Practiced:DOM manipulation in JavaScriptEvent
 handlingConditional statementsRandom number generation
 
 ![IMG_20240426_115434](https://github.com/bharathraj541/Guess-my-number_game/assets/137181351/18c71d59-aac6-4fc0-936d-c759003c0ed5)
+
 ![IMG_20240426_115421](https://github.com/bharathraj541/Guess-my-number_game/assets/137181351/792b8ee4-edbc-4f79-8c75-f2372d7739dd)
